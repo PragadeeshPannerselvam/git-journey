@@ -1,3 +1,1 @@
-# Oncall notes
-
-Primary oncall rotates every Monday
+qwer123
