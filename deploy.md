@@ -1,3 +1,1 @@
-# Deploy notes
-
-Deploy window: to be decided
+ollback plan: keep the previous tag ready
